@@ -7,7 +7,7 @@
     "MasterUserPassword": "Deprotech2024@",
     "AllocatedStorage": 20,
     "DBName": "mydatabase",
-    "BackupRetentionPeriod": 3,
+    "BackupRetentionPeriod": 5,
     "MultiAZ": true,
     "PubliclyAccessible": true,
     "StorageType": "gp2",
